@@ -1,6 +1,6 @@
-var numeroSorteado = 10;
+/*var numeroSorteado = 10;
 
-/*var tabuada = 7;
+var tabuada = 7;
 
 for (var i = 0; i <= 10; i++) {
     console.log('Valor de ' + tabuada + 'x' + i + '=' + tabuada *i);
